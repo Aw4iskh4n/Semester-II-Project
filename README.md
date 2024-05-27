@@ -73,7 +73,7 @@ This project is a simple firewall utility built using Python and the Scapy libra
 
 ### Main Menu
 
-![Main Menu](menu.png)
+![Main Menu](screenshots/menu.png)
 
 ### Blocked IPs List
 
