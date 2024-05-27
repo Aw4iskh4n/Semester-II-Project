@@ -25,8 +25,8 @@ This project is a simple firewall utility built using Python and the Scapy libra
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/python-firewall.git
-   cd python-firewall
+   git clone https://github.com/Aw4iskh4n/Semester-II-Project.git
+   cd Semester-II-Project
    ```
 
 2. **Install the required libraries:**
