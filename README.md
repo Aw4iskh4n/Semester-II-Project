@@ -54,7 +54,7 @@ This project is a simple firewall utility built using Python and the Scapy libra
 1. **Run the firewall script:**
 
    ```bash
-   python firewall.py
+   sudo python3 firewall.py
    ```
 
 2. **Follow the on-screen menu to interact with the firewall:**
