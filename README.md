@@ -77,7 +77,7 @@ This project is a simple firewall utility built using Python and the Scapy libra
 
 ### Blocked IPs List
 
-![Blocked IPs](screenshots/blocked_ips.png)
+![Blocked IPs](screenshots/blocked_ips)
 
 ### User-added Rules
 
